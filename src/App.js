@@ -8,7 +8,7 @@ import Dashboard from './pages/Dashboard';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import Clubs from './pages/Clubs';
-import ClubDetails from './pages/ClubDetails';
+import ClubsDetails from './pages/ClubDetails';
 import Events from './pages/Events';
 import EventDetails from './pages/EventDetails';
 import Profile from './pages/Profile';
